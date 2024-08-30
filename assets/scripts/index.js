@@ -1,3 +1,5 @@
+'use strict';
+
 console.log(randomWord());
 
 function randomWord() {
